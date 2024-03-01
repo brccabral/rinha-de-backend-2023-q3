@@ -27,5 +27,5 @@ https://github.com/zanfranceschi/rinha-de-backend-2023-q3-csharp
 
 
 
-- Github: [@akliemke](https://github.com/andr3marra)
+- Github: [@akliemke](https://github.com/akliemke)
 - LinkedIn [Albert Kliemke](https://www.linkedin.com/in/albert-kliemke/)
